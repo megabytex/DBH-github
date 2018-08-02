@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+  align-self: center;
+  width: 800px;
+}
+
+img{
+  align-items: left;
+  padding: 0px;
+  position: absolute;
+  margin: auto;
+}
