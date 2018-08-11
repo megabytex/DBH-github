@@ -5,6 +5,7 @@ background-image: images/pan_gt.png;
 img{
   align-items: center;
   padding: 1px;
+  border: 10px solid red;
 }
 
 .parrafos{
