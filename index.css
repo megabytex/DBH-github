@@ -1,11 +1,15 @@
+/*.body{
+background-image: images/pan_gt.png;
+}*/
 
 img{
   align-items: center;
-  padding: 0px;
+  padding: 1px;
 }
 
 .parrafos{
-  font-style: italic;color: #fff;
+  font-style: italic;color: blue;
+  font-size: 20px;
   padding: 10px 10px 10px 10px;
 }
 
